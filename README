@@ -5,3 +5,9 @@ Comment compiler ?
 - Entrez la commande cmake . && make && sudo make install
 
 Voilà, le programme est installé !
+
+Comment l'utiliser ?
+
+./gim-reader [FILE.GIM]
+
+CTRL + P = Sauvegarde de l'image en BMP
