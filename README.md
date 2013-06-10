@@ -1,3 +1,8 @@
+Gim-Reader
+==========
+
+Petit programme qui affiche des images au format gim.
+
 Comment compiler ?
 
 - Téléchargez et extrayez l'archive quelque part dans votre ordinateur
