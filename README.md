@@ -3,7 +3,7 @@ Gim-Reader
 
 Petit programme qui affiche des images au format gim.
 
-Comment compiler ?
+## Comment compiler ?
 
 - Téléchargez et extrayez l'archive quelque part dans votre ordinateur
 - Placez vous dans ce dossier à l'aide d'un terminal
@@ -11,8 +11,9 @@ Comment compiler ?
 
 Voilà, le programme est installé !
 
-Comment l'utiliser ?
+## Comment l'utiliser ?
 
 ./gim-reader [FILE.GIM]
 
 CTRL + P = Sauvegarde de l'image en BMP
+
